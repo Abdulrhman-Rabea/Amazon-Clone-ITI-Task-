@@ -1,0 +1,26 @@
+.container {
+	width: 80%;
+	margin: 0 auto;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo img {
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+}
+.signInform {
+	width: 50%;
+	border: 0.5px solid gray;
+	padding: 15px;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+button.btn.btn-warning {
+	width: 100%;
+}
+ul li {
+	list-style: none;
+}
+.form-select {
+	width: 25% !important;
+}
